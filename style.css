@@ -300,6 +300,7 @@ footer p:nth-child(2){
     body{
         height: 100vh;
         overflow-x: hidden;
+        overflow-y: hidden;
     }
     .bottom p:nth-child(1){
         width: 20.4375rem;
