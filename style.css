@@ -298,6 +298,7 @@ footer p:nth-child(2){
         width: 90%;
     }
     body{
+        height: 100vh;
         overflow-x: hidden;
     }
     .bottom p:nth-child(1){
