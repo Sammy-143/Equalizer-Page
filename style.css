@@ -297,6 +297,9 @@ footer p:nth-child(2){
     .container{
         width: 90%;
     }
+    body{
+        overflow-x: hidden;
+    }
     .bottom p:nth-child(1){
         width: 20.4375rem;
         color: #191826;
