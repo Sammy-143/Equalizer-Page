@@ -368,7 +368,7 @@ footer p:nth-child(2){
     } 
     footer{
         top: 103rem;
-        height: 25vh;
+        /* height: 25vh; */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
