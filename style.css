@@ -381,7 +381,7 @@ footer p:nth-child(2){
     } 
     footer{
         gap: 2rem;
-        top: 103rem;
+        top: 102rem;
         /* height: 25vh; */
         display: flex;
         flex-direction: column;
