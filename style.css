@@ -8,7 +8,6 @@ body{
     height: 100vh;
     font-family: 'IBM Plex Sans', sans-serif;
     position: relative;
-    overflow-x: hidden;
 }
 .container{
     width: 80%;
@@ -297,11 +296,15 @@ footer p:nth-child(2){
     .container{
         width: 90%;
     }
+    .bg-pattern{
+        display: none;
+        left: 15rem;
+        top: 0;
+        width: 30%;
+    }
     body{
         width: 100vw;
         height: 100vh;
-        overflow-x: hidden;
-        overflow-y: hidden;
     }
     .bottom p:nth-child(1){
         width: 20.4375rem;
