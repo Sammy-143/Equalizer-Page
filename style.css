@@ -355,13 +355,14 @@ footer p:nth-child(2){
         right: 0;
     }
     .article-info{
-        width: 80%;
+        width: 85%;
     }
     .article p:nth-child(1){
-        background-color: red;
+       width: 15rem;
        margin-bottom: 1rem;
     }
     .article p:nth-child(2){
+        width: 19rem;
         color: #FCFAF9;
         font-size: 1.125rem;
         font-style: normal;
@@ -378,6 +379,7 @@ footer p:nth-child(2){
         margin-top: 1rem;
     } 
     footer{
+        gap: 2rem;
         top: 103rem;
         /* height: 25vh; */
         display: flex;
